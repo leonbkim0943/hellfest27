@@ -275,7 +275,17 @@
       ],
       "officialUrl": "https://hellfest.fr/artiste/vindicta",
       "officialVideo": "https://www.youtube.com/watch?v=J4xnP2K4Bjw",
-      "countrySource": "Hellfest 2027 official artist page"
+      "countrySource": "Hellfest 2027 official artist page",
+      "festivalTrack": {
+        "title": "IDOL(L)S (Official Video) | Napalm Records",
+        "url": "https://www.youtube.com/watch?v=J4xnP2K4Bjw"
+      },
+      "tracks": [
+        {
+          "title": "IDOL(L)S (Official Video) | Napalm Records",
+          "note": "Hellfest 공식 선정 영상"
+        }
+      ]
     },
     "Deadly Dust": {
       "countries": [
@@ -792,7 +802,17 @@
       ],
       "officialUrl": "https://hellfest.fr/artiste/anthares",
       "officialVideo": "https://www.youtube.com/watch?v=2r_ieX_Fu_k",
-      "countrySource": "Hellfest 2027 official artist page"
+      "countrySource": "Hellfest 2027 official artist page",
+      "festivalTrack": {
+        "title": "Arise the war cry ( Official music clip )",
+        "url": "https://www.youtube.com/watch?v=2r_ieX_Fu_k"
+      },
+      "tracks": [
+        {
+          "title": "Arise the war cry ( Official music clip )",
+          "note": "Hellfest 공식 선정 영상"
+        }
+      ]
     },
     "Heart Attack": {
       "countries": [
@@ -800,7 +820,17 @@
       ],
       "officialUrl": "https://hellfest.fr/artiste/heart-attack",
       "officialVideo": "https://www.youtube.com/watch?v=fUI_tukYVU4",
-      "countrySource": "Hellfest 2027 official artist page"
+      "countrySource": "Hellfest 2027 official artist page",
+      "festivalTrack": {
+        "title": "Defeat The Veil",
+        "url": "https://www.youtube.com/watch?v=fUI_tukYVU4"
+      },
+      "tracks": [
+        {
+          "title": "Defeat The Veil",
+          "note": "Hellfest 공식 선정 영상"
+        }
+      ]
     },
     "Nailbomb": {
       "countries": [
@@ -850,7 +880,12 @@
           "yt": "https://music.youtube.com/watch?v=Z8NWqEDhQJM"
         }
       ],
-      "musicSource": "https://music.youtube.com/channel/UCudnsyJ1VQUBHoK2q-hszQQ"
+      "musicSource": "https://music.youtube.com/channel/UCudnsyJ1VQUBHoK2q-hszQQ",
+      "festivalTrack": {
+        "title": "Social Decomposition",
+        "url": "https://www.youtube.com/watch?v=7oocfbDEH50"
+      },
+      "appleSource": "https://music.apple.com/us/artist/1872069614"
     },
     "Inhuman Nature": {
       "countries": [
@@ -1161,7 +1196,17 @@
       ],
       "officialUrl": "https://hellfest.fr/artiste/sinister-90",
       "officialVideo": "https://www.youtube.com/watch?v=CYKoKR9kBiY",
-      "countrySource": "Hellfest 2027 official artist page"
+      "countrySource": "Hellfest 2027 official artist page",
+      "festivalTrack": {
+        "title": "Neurophobic",
+        "url": "https://www.youtube.com/watch?v=CYKoKR9kBiY"
+      },
+      "tracks": [
+        {
+          "title": "Neurophobic",
+          "note": "Hellfest 공식 선정 영상"
+        }
+      ]
     },
     "Celestial Sanctuary": {
       "countries": [
@@ -1540,7 +1585,12 @@
         }
       ],
       "musicSource": "https://music.youtube.com/channel/UCErhKvuhuBemYuIgugAMLpg",
-      "formationYear": 2020
+      "formationYear": 2020,
+      "festivalTrack": {
+        "title": "Traitor",
+        "url": "https://www.youtube.com/watch?v=X6r9Gwq82XM"
+      },
+      "appleSource": "https://music.apple.com/us/artist/1541409905"
     },
     "Nile": {
       "countries": [
@@ -1763,7 +1813,26 @@
           "note": "MusicBrainz 등록 앨범 (대표성 미검증)"
         }
       ],
-      "formationYear": 2020
+      "formationYear": 2020,
+      "festivalTrack": {
+        "title": "LIVE @MOTOCULTOR OPEN AIR FEST 2025 - 4K - [FULL SET - MULTI CAM] 15/08/2025",
+        "url": "https://www.youtube.com/watch?v=g2eIHSacbl8"
+      },
+      "tracks": [
+        {
+          "title": "Diskar",
+          "note": "음원 목록 확인 · 탐색용"
+        },
+        {
+          "title": "Gwad an Diaoul",
+          "note": "음원 목록 확인 · 탐색용"
+        },
+        {
+          "title": "Enteuzet get Trenk",
+          "note": "음원 목록 확인 · 탐색용"
+        }
+      ],
+      "appleSource": "https://music.apple.com/us/artist/1573463428"
     },
     "Black Breath": {
       "countries": [
@@ -1890,7 +1959,17 @@
       ],
       "officialUrl": "https://hellfest.fr/artiste/misanthrope",
       "officialVideo": "https://www.youtube.com/watch?v=4g4sKotr8Pg",
-      "countrySource": "Hellfest 2027 official artist page"
+      "countrySource": "Hellfest 2027 official artist page",
+      "festivalTrack": {
+        "title": "Comtesse Vampyr HD (Official video) | Holy Records 2026",
+        "url": "https://www.youtube.com/watch?v=4g4sKotr8Pg"
+      },
+      "tracks": [
+        {
+          "title": "Comtesse Vampyr HD (Official video) | Holy Records 2026",
+          "note": "Hellfest 공식 선정 영상"
+        }
+      ]
     },
     "Venom": {
       "countries": [
@@ -2031,7 +2110,29 @@
           "note": "MusicBrainz 등록 앨범 (대표성 미검증)"
         }
       ],
-      "formationYear": 2020
+      "formationYear": 2020,
+      "festivalTrack": {
+        "title": "The Triumph (of Night & Fire) (from Black Royal Spiritism – I – O Sino da Igreja) lyric video",
+        "url": "https://www.youtube.com/watch?v=MaEWVPUBAhQ"
+      },
+      "tracks": [
+        {
+          "title": "The Triumph (Of Night & Fire)",
+          "yt": "https://music.youtube.com/watch?v=kCtgA9ilg-c",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Blood.Sacrifice.Enthronement",
+          "yt": "https://music.youtube.com/watch?v=G-jWF2jXUIQ",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Black Royal Spiritism",
+          "yt": "https://music.youtube.com/watch?v=zjHR3Nd_7dA",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        }
+      ],
+      "musicSource": "https://music.youtube.com/channel/UCj8nPOl2cdwaXFQffu4gJSA"
     },
     "Svarttjern": {
       "countries": [
@@ -3489,7 +3590,17 @@
       ],
       "officialUrl": "https://hellfest.fr/artiste/john-garcia",
       "officialVideo": "https://www.youtube.com/watch?v=rO8f0_Svvx0",
-      "countrySource": "Hellfest 2027 official artist page"
+      "countrySource": "Hellfest 2027 official artist page",
+      "festivalTrack": {
+        "title": "Jim's Whiskers (Official Video) | Napalm Records",
+        "url": "https://www.youtube.com/watch?v=rO8f0_Svvx0"
+      },
+      "tracks": [
+        {
+          "title": "Jim's Whiskers (Official Video) | Napalm Records",
+          "note": "Hellfest 공식 선정 영상"
+        }
+      ]
     },
     "Graveyard": {
       "countries": [
@@ -3986,7 +4097,38 @@
       ],
       "officialUrl": "https://hellfest.fr/artiste/witchthroat-serpent",
       "officialVideo": "https://www.youtube.com/watch?v=jtfO1aorSug",
-      "countrySource": "Hellfest 2027 official artist page"
+      "countrySource": "Hellfest 2027 official artist page",
+      "festivalTrack": {
+        "title": "Scorpent Serpion",
+        "url": "https://www.youtube.com/watch?v=jtfO1aorSug"
+      },
+      "tracks": [
+        {
+          "title": "Siberian Mist",
+          "note": "음원 목록 확인 · 탐색용"
+        },
+        {
+          "title": "Silver Bell of Satanic Ritual",
+          "note": "음원 목록 확인 · 탐색용"
+        },
+        {
+          "title": "Lucifer's Fire",
+          "note": "음원 목록 확인 · 탐색용"
+        }
+      ],
+      "albums": [
+        {
+          "title": "Sang-Dragon",
+          "note": "대표성 미확인",
+          "year": 2016
+        },
+        {
+          "title": "Trove of Oddities at the Devil's Driveway",
+          "note": "대표성 미확인",
+          "year": 2023
+        }
+      ],
+      "appleSource": "https://music.apple.com/us/artist/1169819705"
     },
     "Witchorious": {
       "countries": [
@@ -4002,7 +4144,25 @@
           "note": "MusicBrainz 등록 앨범 (대표성 미검증)"
         }
       ],
-      "formationYear": 2020
+      "formationYear": 2020,
+      "tracks": [
+        {
+          "title": "Monster",
+          "yt": "https://music.youtube.com/watch?v=LgIh-vqsWfI",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Blood",
+          "yt": "https://music.youtube.com/watch?v=LIZ8gjDd8xg",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Watch Me Die",
+          "yt": "https://music.youtube.com/watch?v=xqNmtT5zS08",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        }
+      ],
+      "musicSource": "https://music.youtube.com/channel/UCfJtiqD5ypC0-HhnGjn0D8Q"
     },
     "Swallow the Sun": {
       "countries": [
@@ -4396,7 +4556,27 @@
           "note": "MusicBrainz 등록 앨범 (대표성 미검증)"
         }
       ],
-      "formationYear": 2026
+      "formationYear": 2026,
+      "festivalTrack": {
+        "title": "Burn Witch Burn EP",
+        "url": "https://www.youtube.com/watch?v=niYvFdQvGls"
+      },
+      "musicSource": "https://music.youtube.com/channel/UCtIsbX7l0V3XjR3BNSx9Brw",
+      "tracks": [
+        {
+          "title": "Music For Furbies",
+          "note": "음원 목록 확인 · 탐색용"
+        },
+        {
+          "title": "Black Hall (Early Mix)",
+          "note": "음원 목록 확인 · 탐색용"
+        },
+        {
+          "title": "Black Hall",
+          "note": "음원 목록 확인 · 탐색용"
+        }
+      ],
+      "appleSource": "https://music.apple.com/us/artist/6790451489"
     },
     "We Lost the Sea": {
       "countries": [
@@ -5508,7 +5688,11 @@
       ],
       "albums": [],
       "musicSource": "https://music.youtube.com/channel/UCE8pSJIdthkd2c1bQsuGDYA",
-      "formationYear": 2026
+      "formationYear": 2026,
+      "festivalTrack": {
+        "title": "CROCODILE.",
+        "url": "https://www.youtube.com/watch?v=8DVwEt00MEY"
+      }
     },
     "The Dark.FM": {
       "countries": [
@@ -5518,7 +5702,17 @@
       "officialVideo": "https://www.youtube.com/watch?v=jwhSvg2TVPc",
       "countrySource": "Hellfest 2027 official artist page",
       "musicbrainzUrl": "https://musicbrainz.org/artist/1dddf6a2-2f46-4fce-8894-0462f6a08dad",
-      "formationYear": 2023
+      "formationYear": 2023,
+      "festivalTrack": {
+        "title": "Redline [ft. Kent Osborne]",
+        "url": "https://www.youtube.com/watch?v=jwhSvg2TVPc"
+      },
+      "tracks": [
+        {
+          "title": "Redline [ft. Kent Osborne]",
+          "note": "Hellfest 공식 선정 영상"
+        }
+      ]
     },
     "Spleen": {
       "countries": [
@@ -5544,7 +5738,11 @@
           "yt": "https://music.youtube.com/watch?v=b0QlkoZ9yyo"
         }
       ],
-      "musicSource": "https://music.youtube.com/channel/UCsGV8N3DM9sDkm2Y_XPmENQ"
+      "musicSource": "https://music.youtube.com/channel/UCsGV8N3DM9sDkm2Y_XPmENQ",
+      "festivalTrack": {
+        "title": "The Extreme Limit Of What My Brain Can Handle",
+        "url": "https://www.youtube.com/watch?v=ATTSLm9IjbQ"
+      }
     },
     "Walls of Jericho": {
       "countries": [
@@ -5673,7 +5871,25 @@
           "note": "MusicBrainz 등록 앨범 (대표성 미검증)"
         }
       ],
-      "formationYear": 2024
+      "formationYear": 2024,
+      "tracks": [
+        {
+          "title": "Flatliner",
+          "yt": "https://music.youtube.com/watch?v=3fpfAzefCpA",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Cannula",
+          "yt": "https://music.youtube.com/watch?v=8g4JhNsNo80",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Lead Smile",
+          "yt": "https://music.youtube.com/watch?v=m2pKG0YX1bU",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        }
+      ],
+      "musicSource": "https://music.youtube.com/channel/UCV_ZSNFW5UUkw7Dn-MZFTuw"
     },
     "Gideon": {
       "countries": [
@@ -6052,7 +6268,29 @@
           "title": "Lover of a Ghost",
           "note": "MusicBrainz 등록 앨범 (대표성 미검증)"
         }
-      ]
+      ],
+      "festivalTrack": {
+        "title": "Narcisista S.E.X.O (video musical oficial)",
+        "url": "https://www.youtube.com/watch?v=Rp-iKUrFDos"
+      },
+      "tracks": [
+        {
+          "title": "S.E.X. Narcissist",
+          "yt": "https://music.youtube.com/watch?v=0UTaARNXvvM",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Saccharine",
+          "yt": "https://music.youtube.com/watch?v=s4ydH8FPZb8",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "I Don't Care",
+          "yt": "https://music.youtube.com/watch?v=b5yRxGeGh4Y",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        }
+      ],
+      "musicSource": "https://music.youtube.com/channel/UC_eXSMPZQmRaMmK99U7I-7g"
     },
     "Asava": {
       "countries": [
@@ -6567,7 +6805,41 @@
       ],
       "officialUrl": "https://hellfest.fr/artiste/initiate",
       "officialVideo": "https://www.youtube.com/watch?v=9qj7mUoLrMs",
-      "countrySource": "Hellfest 2027 official artist page"
+      "countrySource": "Hellfest 2027 official artist page",
+      "festivalTrack": {
+        "title": "Delusions",
+        "url": "https://www.youtube.com/watch?v=9qj7mUoLrMs"
+      },
+      "tracks": [
+        {
+          "title": "Numb The Pain",
+          "yt": "https://music.youtube.com/watch?v=pzog4E9TyRc",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Alone At The Bottom",
+          "yt": "https://music.youtube.com/watch?v=Cx2HN7olCi0",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Too Much",
+          "yt": "https://music.youtube.com/watch?v=W2QzgjQCMfQ",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        }
+      ],
+      "albums": [
+        {
+          "title": "Initiate on Audiotree Live",
+          "note": "대표성 미확인",
+          "year": 2024
+        },
+        {
+          "title": "Cerebral Circus",
+          "note": "대표성 미확인",
+          "year": 2023
+        }
+      ],
+      "musicSource": "https://music.youtube.com/channel/UCjywapQ7XQgiaexOgLQhX_Q"
     },
     "Locked Shut": {
       "countries": [
@@ -6583,7 +6855,25 @@
           "note": "MusicBrainz 등록 앨범 (대표성 미검증)"
         }
       ],
-      "formationYear": 2023
+      "formationYear": 2023,
+      "tracks": [
+        {
+          "title": "Steel Spine",
+          "yt": "https://music.youtube.com/watch?v=XH3u2z2_oPM",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Claymores",
+          "yt": "https://music.youtube.com/watch?v=-Qv3ieQ-_Hs",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Me vs. a Brick Wall",
+          "yt": "https://music.youtube.com/watch?v=Tt5HJWKkdbM",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        }
+      ],
+      "musicSource": "https://music.youtube.com/channel/UCYuubGgrTdtJ8dsVsY39lQQ"
     },
     "Agnostic Front": {
       "countries": [
@@ -6917,7 +7207,12 @@
           "yt": "https://music.youtube.com/watch?v=f6c1Wn6lEqc"
         }
       ],
-      "musicSource": "https://music.youtube.com/channel/UCEPiXlAZqHb0rp3FMy-6aew"
+      "musicSource": "https://music.youtube.com/channel/UCEPiXlAZqHb0rp3FMy-6aew",
+      "festivalTrack": {
+        "title": "BIG ASS GUN",
+        "url": "https://www.youtube.com/watch?v=DBI5koONTt0"
+      },
+      "appleSource": "https://music.apple.com/us/artist/1799832122"
     },
     "Sunami": {
       "countries": [
@@ -6943,7 +7238,11 @@
           "yt": "https://music.youtube.com/watch?v=UG41FEEwlSk"
         }
       ],
-      "musicSource": "https://music.youtube.com/channel/UC_AbePWrwL4wkiFjHwISaeQ"
+      "musicSource": "https://music.youtube.com/channel/UC_AbePWrwL4wkiFjHwISaeQ",
+      "festivalTrack": {
+        "title": "Doubt",
+        "url": "https://www.youtube.com/watch?v=5dXP2XIPUEc"
+      }
     },
     "Krimewatch": {
       "countries": [
@@ -6966,7 +7265,29 @@
           "title": "Time to Burn",
           "note": "MusicBrainz 등록 앨범 (대표성 미검증)"
         }
-      ]
+      ],
+      "festivalTrack": {
+        "title": "PIRATES ft. GHOSTEMANE - Official Music Video",
+        "url": "https://www.youtube.com/watch?v=AcJbiofWvV0"
+      },
+      "tracks": [
+        {
+          "title": "Fake ID",
+          "yt": "https://music.youtube.com/watch?v=wGAyMZP5dTg",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Reasons",
+          "yt": "https://music.youtube.com/watch?v=-i2tsgzeWhQ",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Hot Pursuit, One and Nothing",
+          "yt": "https://music.youtube.com/watch?v=PkCiQWy7eeA",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        }
+      ],
+      "musicSource": "https://music.youtube.com/channel/UCGOKEmDO-i7Vk2Lxc5n_04A"
     },
     "Headbussa": {
       "countries": [
@@ -6982,7 +7303,25 @@
           "note": "MusicBrainz 등록 앨범 (대표성 미검증)"
         }
       ],
-      "formationYear": 2020
+      "formationYear": 2020,
+      "tracks": [
+        {
+          "title": "Intro II",
+          "yt": "https://music.youtube.com/watch?v=xS58N10y-ZQ",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Survival Measures",
+          "yt": "https://music.youtube.com/watch?v=cTxpk0oipU8",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Immortality",
+          "yt": "https://music.youtube.com/watch?v=awJDBQL2Rfo",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        }
+      ],
+      "musicSource": "https://music.youtube.com/channel/UC7_mttpC20LXjXO8yUAGtxg"
     },
     "Crovercops": {
       "countries": [
@@ -7016,7 +7355,11 @@
           "yt": "https://music.youtube.com/watch?v=ckoLuOSEcG8"
         }
       ],
-      "musicSource": "https://music.youtube.com/channel/UCrhuuY5_06zgb4Z5W_VWX2Q"
+      "musicSource": "https://music.youtube.com/channel/UCrhuuY5_06zgb4Z5W_VWX2Q",
+      "festivalTrack": {
+        "title": "Red And Blue Lights",
+        "url": "https://www.youtube.com/watch?v=-7h6-7DoaNc"
+      }
     },
     "Cobra": {
       "countries": [
@@ -7236,7 +7579,12 @@
           "yt": "https://music.youtube.com/watch?v=uo2dbTsboWk"
         }
       ],
-      "musicSource": "https://music.youtube.com/channel/UC6CsDAFFEY4_WQ8JL5P4jgg"
+      "musicSource": "https://music.youtube.com/channel/UC6CsDAFFEY4_WQ8JL5P4jgg",
+      "festivalTrack": {
+        "title": "Living Hell",
+        "url": "https://www.youtube.com/watch?v=p635dYh_hgE"
+      },
+      "appleSource": "https://music.apple.com/us/artist/1758410917"
     },
     "Burning Heads": {
       "countries": [
@@ -7558,7 +7906,17 @@
           "note": "MusicBrainz 등록 앨범 (대표성 미검증)"
         }
       ],
-      "formationYear": 1993
+      "formationYear": 1993,
+      "festivalTrack": {
+        "title": "L'Instinct du Meilleur (Clip)",
+        "url": "https://www.youtube.com/watch?v=GQL9lTnyK7g"
+      },
+      "tracks": [
+        {
+          "title": "L'Instinct du Meilleur (Clip)",
+          "note": "Hellfest 공식 선정 영상"
+        }
+      ]
     },
     "Les Wampas": {
       "countries": [
@@ -7694,7 +8052,25 @@
           "note": "MusicBrainz 등록 앨범 (대표성 미검증)"
         }
       ],
-      "formationYear": 1976
+      "formationYear": 1976,
+      "tracks": [
+        {
+          "title": "Birthday Party",
+          "yt": "https://music.youtube.com/watch?v=4QjuqE6bM74",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Lonely Lovers",
+          "yt": "https://music.youtube.com/watch?v=QPHXZFGDPnM",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "For You",
+          "yt": "https://music.youtube.com/watch?v=68x0-GVvBRs",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        }
+      ],
+      "musicSource": "https://music.youtube.com/channel/UC6Q8sC72qqz845RdAjxgEKg"
     },
     "Prisonnier du Temps": {
       "countries": [
@@ -7702,7 +8078,17 @@
       ],
       "officialUrl": "https://hellfest.fr/artiste/prisonnier-du-temps",
       "officialVideo": "https://www.youtube.com/watch?v=DRryITVCaN8",
-      "countrySource": "Hellfest 2027 official artist page"
+      "countrySource": "Hellfest 2027 official artist page",
+      "festivalTrack": {
+        "title": "Live @ Magasin 4, Brussels - 29/10/2026",
+        "url": "https://www.youtube.com/watch?v=DRryITVCaN8"
+      },
+      "tracks": [
+        {
+          "title": "Live @ Magasin 4, Brussels - 29/10/2026",
+          "note": "Hellfest 공식 선정 영상"
+        }
+      ]
     },
     "Krav Boca": {
       "countries": [
@@ -7757,7 +8143,41 @@
       ],
       "officialUrl": "https://hellfest.fr/artiste/frenzee",
       "officialVideo": "https://www.youtube.com/watch?v=I-cKyb47YIo",
-      "countrySource": "Hellfest 2027 official artist page"
+      "countrySource": "Hellfest 2027 official artist page",
+      "festivalTrack": {
+        "title": "HYPERACTIVE",
+        "url": "https://www.youtube.com/watch?v=I-cKyb47YIo"
+      },
+      "tracks": [
+        {
+          "title": "Loud Pack",
+          "yt": "https://music.youtube.com/watch?v=cuRjkCYLljY",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Jet black",
+          "yt": "https://music.youtube.com/watch?v=WiZFe39Pk3c",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "HYPERACTIVE",
+          "yt": "https://music.youtube.com/watch?v=8JgDAP5aBiI",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        }
+      ],
+      "albums": [
+        {
+          "title": "RUNNIN' AMOK",
+          "note": "대표성 미확인",
+          "year": 2026
+        },
+        {
+          "title": "What's Wrong With Me",
+          "note": "대표성 미확인",
+          "year": 2024
+        }
+      ],
+      "musicSource": "https://music.youtube.com/channel/UCx6KBNW-NJZ8CwBtBKgo9wg"
     },
     "Cowboy Hunters": {
       "countries": [
@@ -7851,7 +8271,17 @@
       ],
       "officialUrl": "https://hellfest.fr/artiste/knives",
       "officialVideo": "https://www.youtube.com/watch?v=oN_adA8UD0I",
-      "countrySource": "Hellfest 2027 official artist page"
+      "countrySource": "Hellfest 2027 official artist page",
+      "festivalTrack": {
+        "title": "VERMILLION | Official Music Video",
+        "url": "https://www.youtube.com/watch?v=oN_adA8UD0I"
+      },
+      "tracks": [
+        {
+          "title": "VERMILLION | Official Music Video",
+          "note": "Hellfest 공식 선정 영상"
+        }
+      ]
     },
     "Mannequin Death Squad": {
       "countries": [
@@ -7859,7 +8289,17 @@
       ],
       "officialUrl": "https://hellfest.fr/artiste/mannequin-death-squad",
       "officialVideo": "https://www.youtube.com/watch?v=PhNBthQ1b6Y",
-      "countrySource": "Hellfest 2027 official artist page"
+      "countrySource": "Hellfest 2027 official artist page",
+      "festivalTrack": {
+        "title": "Don't Care Ft. Emmy Mack",
+        "url": "https://www.youtube.com/watch?v=PhNBthQ1b6Y"
+      },
+      "tracks": [
+        {
+          "title": "Don't Care Ft. Emmy Mack",
+          "note": "Hellfest 공식 선정 영상"
+        }
+      ]
     },
     "IDLES": {
       "countries": [
@@ -8160,7 +8600,36 @@
       ],
       "officialUrl": "https://hellfest.fr/artiste/divine-shade",
       "officialVideo": "https://www.youtube.com/watch?v=EYwBoejNbaU",
-      "countrySource": "Hellfest 2027 official artist page"
+      "countrySource": "Hellfest 2027 official artist page",
+      "festivalTrack": {
+        "title": "Heaven",
+        "url": "https://www.youtube.com/watch?v=EYwBoejNbaU"
+      },
+      "tracks": [
+        {
+          "title": "Hate And Oblivion",
+          "yt": "https://music.youtube.com/watch?v=mFyPHNcEhfo",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Oublier (feat. Steve Fox-Harris)",
+          "yt": "https://music.youtube.com/watch?v=SbsDejF4tF0",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Heaven",
+          "yt": "https://music.youtube.com/watch?v=IylEk0LWDW8",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        }
+      ],
+      "albums": [
+        {
+          "title": "Fragments-Vol.1",
+          "note": "대표성 미확인",
+          "year": 2025
+        }
+      ],
+      "musicSource": "https://music.youtube.com/channel/UCru0q_27q77yMKzGGUkjTNQ"
     },
     "Carpenter Brut": {
       "countries": [
@@ -8591,7 +9060,8 @@
           "year": 2023
         }
       ],
-      "musicSource": "https://music.youtube.com/channel/UCV0EPSbSswLjUNAVS_DGJvg"
+      "musicSource": "https://music.youtube.com/channel/UCV0EPSbSswLjUNAVS_DGJvg",
+      "formationYear": 2017
     },
     "Earth Tongue": {
       "countries": [
@@ -8657,7 +9127,12 @@
           "yt": "https://music.youtube.com/watch?v=o2HnkwY7C3o"
         }
       ],
-      "musicSource": "https://music.youtube.com/channel/UCpXKErVYGW5aAggngEouaJw"
+      "musicSource": "https://music.youtube.com/channel/UCpXKErVYGW5aAggngEouaJw",
+      "festivalTrack": {
+        "title": "Plus de Plantes",
+        "url": "https://www.youtube.com/watch?v=elUC2fiF8FM"
+      },
+      "appleSource": "https://music.apple.com/us/artist/1677307205"
     },
     "Moundrag": {
       "countries": [
@@ -8665,7 +9140,41 @@
       ],
       "officialUrl": "https://hellfest.fr/artiste/moundrag",
       "officialVideo": "https://www.youtube.com/watch?v=l2DBBVey3pQ",
-      "countrySource": "Hellfest 2027 official artist page"
+      "countrySource": "Hellfest 2027 official artist page",
+      "festivalTrack": {
+        "title": "Take Me To The Stars",
+        "url": "https://www.youtube.com/watch?v=l2DBBVey3pQ"
+      },
+      "tracks": [
+        {
+          "title": "Black Flames",
+          "yt": "https://music.youtube.com/watch?v=BrBMop2mx6c",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "Take Me To The Stars",
+          "yt": "https://music.youtube.com/watch?v=MRyZJ_jpZYI",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        },
+        {
+          "title": "The Caveman",
+          "yt": "https://music.youtube.com/watch?v=5FvJazstyfI",
+          "note": "YouTube Music 아티스트 추천곡 목록"
+        }
+      ],
+      "albums": [
+        {
+          "title": "Deux",
+          "note": "대표성 미확인",
+          "year": 2025
+        },
+        {
+          "title": "HIC SUNT MOUNDRAGES",
+          "note": "대표성 미확인",
+          "year": 2022
+        }
+      ],
+      "musicSource": "https://music.youtube.com/channel/UCDXsz-ixNC3MdMNfxvP3S2Q"
     },
     "Damantra": {
       "countries": [
@@ -8790,7 +9299,17 @@
       ],
       "officialUrl": "https://hellfest.fr/artiste/sarab",
       "officialVideo": "https://www.youtube.com/watch?v=Ygq0p-X2FIA",
-      "countrySource": "Hellfest 2027 official artist page"
+      "countrySource": "Hellfest 2027 official artist page",
+      "festivalTrack": {
+        "title": "King Bayat - Music Visualizer",
+        "url": "https://www.youtube.com/watch?v=Ygq0p-X2FIA"
+      },
+      "tracks": [
+        {
+          "title": "King Bayat - Music Visualizer",
+          "note": "Hellfest 공식 선정 영상"
+        }
+      ]
     },
     "Alias": {
       "countries": [

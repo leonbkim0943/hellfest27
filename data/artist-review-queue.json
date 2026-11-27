@@ -1,0 +1,2042 @@
+{
+  "count": 209,
+  "artists": [
+    {
+      "name": "Bruce Dickinson",
+      "missing": [
+        "formationYear"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/bruce-dickinson",
+      "officialVideo": "https://www.youtube.com/watch?v=w2WIWtffuRA",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "British Lion",
+      "missing": [
+        "formationYear"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/british-lion",
+      "officialVideo": "https://www.youtube.com/watch?v=3SpnUlXVyPo",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/0c7e0b11-728c-4f75-b5c6-0306921ce5cc"
+    },
+    {
+      "name": "The Night Eternal",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/the-night-eternal",
+      "officialVideo": "https://www.youtube.com/watch?v=W31_5nc2gGk",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Dogma",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/dogma",
+      "officialVideo": "https://www.youtube.com/watch?v=1f6GEWdSz-s",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Liv Sin",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/liv-sin",
+      "officialVideo": "https://www.youtube.com/watch?v=winavDE0lhM",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/c1ed0f35-a166-45e6-b981-0178c32cc6db"
+    },
+    {
+      "name": "Vindicta",
+      "missing": [
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/vindicta",
+      "officialVideo": "https://www.youtube.com/watch?v=J4xnP2K4Bjw",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Deadly Dust",
+      "missing": [
+        "tracks",
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/deadly-dust",
+      "officialVideo": "https://www.youtube.com/watch?v=lqiL9yWSBkg",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Slash",
+      "missing": [
+        "formationYear"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/slash",
+      "officialVideo": "https://www.youtube.com/watch?v=DjWzLqvOiMY",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Michael Schenker",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/michael-schenker",
+      "officialVideo": "https://www.youtube.com/watch?v=t5ib9xwpaWk",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/2bc078c7-bf5c-4d01-b255-6588f82f2ccf"
+    },
+    {
+      "name": "Rival Sons",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/rival-sons",
+      "officialVideo": "https://www.youtube.com/watch?v=oFmd0l8o1yY",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Komodor",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/komodor",
+      "officialVideo": "https://www.youtube.com/watch?v=Zo4CkNxSFvU",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Gyasi",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/gyasi",
+      "officialVideo": "https://www.youtube.com/watch?v=spKi2Y821qw",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Sanctuary",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/sanctuary",
+      "officialVideo": "https://www.youtube.com/watch?v=OtUSR4TKMd4",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Forbidden",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/forbidden",
+      "officialVideo": "https://www.youtube.com/watch?v=7i0xY5BYC_M",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Vio-Lence",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/vio-lence",
+      "officialVideo": "https://www.youtube.com/watch?v=NvE_1rOofgc",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/cf2544d6-b4f2-405d-a525-08c1ec5034f1"
+    },
+    {
+      "name": "Void",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/void",
+      "officialVideo": "https://www.youtube.com/watch?v=0S8eR84Eaic",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Anthares",
+      "missing": [
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/anthares",
+      "officialVideo": "https://www.youtube.com/watch?v=2r_ieX_Fu_k",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Heart Attack",
+      "missing": [
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/heart-attack",
+      "officialVideo": "https://www.youtube.com/watch?v=fUI_tukYVU4",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Carnivore A.D.",
+      "missing": [
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/carnivore-a-d",
+      "officialVideo": "https://www.youtube.com/watch?v=7oocfbDEH50",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Inhuman Nature",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/inhuman-nature",
+      "officialVideo": "https://www.youtube.com/watch?v=f9CyauylCkI",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/a97fc0c5-3d05-4c4a-8544-26cd0548facb"
+    },
+    {
+      "name": "Hellripper",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/hellripper",
+      "officialVideo": "https://www.youtube.com/watch?v=8s4P68HrYNU",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/1db52a3c-7739-4c90-935c-3458e733955e"
+    },
+    {
+      "name": "Devastator",
+      "missing": [
+        "formationYear"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/devastator",
+      "officialVideo": "https://www.youtube.com/watch?v=bLa2CsLyaVI",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Lomor",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/lomor",
+      "officialVideo": "https://www.youtube.com/watch?v=3jdD1TDJpt8",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Death to All",
+      "missing": [
+        "tracks",
+        "albums",
+        "formationYear"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/death-to-all",
+      "officialVideo": "https://www.youtube.com/watch?v=XADNfMnT7yI",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Incantation",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/incantation",
+      "officialVideo": "https://www.youtube.com/watch?v=JDbeI_3kWO0",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Benediction",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/benediction",
+      "officialVideo": "https://www.youtube.com/watch?v=2Odxrz-T1bk",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Loudblast",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/loudblast",
+      "officialVideo": "https://www.youtube.com/watch?v=drUy1xO2GGM",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/5586fa43-9e87-405a-95cc-db3179a7c043"
+    },
+    {
+      "name": "Jungle Rot",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/jungle-rot",
+      "officialVideo": "https://www.youtube.com/watch?v=OJEiP4wqyEU",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/ab81255c-7a4f-4528-bb77-4a3fbd8e8317"
+    },
+    {
+      "name": "Sinister 90",
+      "missing": [
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/sinister-90",
+      "officialVideo": "https://www.youtube.com/watch?v=CYKoKR9kBiY",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Celestial Sanctuary",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/celestial-sanctuary",
+      "officialVideo": "https://www.youtube.com/watch?v=OHVNj0gTcfc",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/15980be6-22c9-46e7-9c5b-bb7f8dea3be8"
+    },
+    {
+      "name": "Nekrogoblikon",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/nekrogoblikon",
+      "officialVideo": "https://www.youtube.com/watch?v=OWO0JrJv0so",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/a0befa17-6652-43c7-a211-3c84432f15cd"
+    },
+    {
+      "name": "Brymir",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/brymir",
+      "officialVideo": "https://www.youtube.com/watch?v=Vt4WxokdZgg",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/8b848759-779b-4069-bb5c-b4d2b725b4f8"
+    },
+    {
+      "name": "Aephanemer",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/aephanemer",
+      "officialVideo": "https://www.youtube.com/watch?v=i93FMILl5JM",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/114a7dd2-00bb-4666-a650-367a2fb08b35"
+    },
+    {
+      "name": "Nyktophobia",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/nyktophobia",
+      "officialVideo": "https://www.youtube.com/watch?v=bg0SvmTT6Ig",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/ac5bb5b2-6300-4c27-bd83-0d55aa0f71e9"
+    },
+    {
+      "name": "Decessus",
+      "missing": [
+        "albums",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/decessus",
+      "officialVideo": "https://www.youtube.com/watch?v=X6r9Gwq82XM",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/19b947d5-1c29-4eb4-8ef6-4b73114d6aa1"
+    },
+    {
+      "name": "Naraka",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/naraka",
+      "officialVideo": "https://www.youtube.com/watch?v=6o4iF6vzmbE",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Vitriol",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/vitriol",
+      "officialVideo": "https://www.youtube.com/watch?v=gXFetvmGQrE",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Extermination Dismemberment",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/extermination-dismemberment",
+      "officialVideo": "https://www.youtube.com/watch?v=97XWmkB7OJQ",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/b865b28e-b9db-4ac0-96e4-ac7ea962b17d"
+    },
+    {
+      "name": "Party Cannon",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/party-cannon",
+      "officialVideo": "https://www.youtube.com/watch?v=beS0lSW9S5A",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/ffe9fbb6-915a-41d9-b7c2-2f3e8a63bd9a"
+    },
+    {
+      "name": "Witches",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/witches",
+      "officialVideo": "https://www.youtube.com/watch?v=v35O2h44SBg",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Tanork",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/tanork",
+      "officialVideo": "https://www.youtube.com/watch?v=g2eIHSacbl8",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/1a25d55d-7a86-4b89-92aa-6159d2b6eb97"
+    },
+    {
+      "name": "Black Breath",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/black-breath",
+      "officialVideo": null,
+      "musicbrainzUrl": "https://musicbrainz.org/artist/e9df4e93-6f7a-448a-a5ac-d30c27a6d22c"
+    },
+    {
+      "name": "Fuming Mouth",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/fuming-mouth",
+      "officialVideo": "https://www.youtube.com/watch?v=o5ub7cyloTc",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/06cd3013-82d9-4713-8d82-4b46aec62215"
+    },
+    {
+      "name": "Antichrist Siege Machine",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/antichrist-siege-machine",
+      "officialVideo": "https://www.youtube.com/watch?v=8iTXiTrvlBM",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/57f2bfc7-7e85-4c27-b6f5-44746198b338"
+    },
+    {
+      "name": "Watain",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/watain",
+      "officialVideo": "https://www.youtube.com/watch?v=u-bNl58mAY8",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/8c51b06d-b678-4bbf-aeac-7295dfb69d13"
+    },
+    {
+      "name": "Carpathian Forest",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/carpathian-forest",
+      "officialVideo": "https://www.youtube.com/watch?v=rxZMKmPmjvE",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/69fa5c49-12ec-4c86-a238-4e07cc6d1a7d"
+    },
+    {
+      "name": "Seth",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/seth",
+      "officialVideo": "https://www.youtube.com/watch?v=WbB179PHAks",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Ruïm",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/ruim",
+      "officialVideo": "https://www.youtube.com/watch?v=MaEWVPUBAhQ",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/6669ebf0-6d32-44ab-ad50-6b880d547d26"
+    },
+    {
+      "name": "Svarttjern",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/svarttjern",
+      "officialVideo": "https://www.youtube.com/watch?v=AZNziX5sL_k",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/c8229399-f6af-4e47-ae39-1601d3d30f3b"
+    },
+    {
+      "name": "Darvaza",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/darvaza",
+      "officialVideo": "https://www.youtube.com/watch?v=g-4YJjjMrXM",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/3f80bed4-3807-4423-90ba-a2dae0de8c72"
+    },
+    {
+      "name": "From the Vastland",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/from-the-vastland",
+      "officialVideo": "https://www.youtube.com/watch?v=0xMBbvvO5Uk",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/03c4c6c5-ee93-4dbc-936c-9fcdfad7826c"
+    },
+    {
+      "name": "Malphas",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/malphas",
+      "officialVideo": "https://www.youtube.com/watch?v=jP0SXTqsF3o",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Galibot",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/galibot",
+      "officialVideo": "https://www.youtube.com/watch?v=0OX5qOVllvk",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/d0f7843b-3cb8-439c-b6f0-c82c9887a71f"
+    },
+    {
+      "name": "Dépérir",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/deperir",
+      "officialVideo": "https://www.youtube.com/watch?v=Io3c8jvoFH0",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Baphy",
+      "missing": [
+        "tracks",
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/baphy",
+      "officialVideo": "https://www.youtube.com/watch?v=31Jg54NJF4Q",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Belphegor",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/belphegor",
+      "officialVideo": "https://www.youtube.com/watch?v=fWrmIqRNFQw",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/a41cc6b0-ff0c-4331-9add-907025607e95"
+    },
+    {
+      "name": "Melechesh",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/melechesh",
+      "officialVideo": "https://www.youtube.com/watch?v=0O5D0A-YHxg",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/bfd84c48-8659-4837-88b0-760eda171e5d"
+    },
+    {
+      "name": "Sigh",
+      "missing": [
+        "formationYear"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/sigh",
+      "officialVideo": "https://www.youtube.com/watch?v=C6ldkEzbH1o",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "In the Woods…",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/in-the-woods",
+      "officialVideo": "https://www.youtube.com/watch?v=SVXayule47w",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/8b8a0823-79e3-457f-879c-12287f86b949"
+    },
+    {
+      "name": "Aetheria Conscientia",
+      "missing": [
+        "tracks",
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/aetheria-conscientia",
+      "officialVideo": "https://www.youtube.com/watch?v=ytEPI2Pm_cU",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Decline of the I",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/decline-of-the-i",
+      "officialVideo": "https://www.youtube.com/watch?v=kIvSDdtvBBY",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/598eef4d-e596-45d2-a18a-376958320f23"
+    },
+    {
+      "name": "Ellende",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/ellende",
+      "officialVideo": "https://www.youtube.com/watch?v=oPkPqRyc6zs",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Enisum",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/enisum",
+      "officialVideo": "https://www.youtube.com/watch?v=ZFunBjKvNgI",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/babbf478-8160-42bd-b484-e8e044c565d9"
+    },
+    {
+      "name": "Les Bâtards du Roi",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/les-batards-du-roi",
+      "officialVideo": "https://www.youtube.com/watch?v=bSJoTOo5lrs",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/3b559499-8e59-4c44-b549-8b667312b5ea"
+    },
+    {
+      "name": "Harakiri for the Sky",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/harakiri-for-the-sky",
+      "officialVideo": "https://www.youtube.com/watch?v=psYrzpTWlFo",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/75210e6c-96d1-445e-ac95-6fa06c09e9d5"
+    },
+    {
+      "name": "Der Weg einer Freiheit",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/der-weg-einer-freiheit",
+      "officialVideo": "https://www.youtube.com/watch?v=l7WJKrdKq9E",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/2d75fdbd-2158-4ab4-a9ac-eec8d997d70b"
+    },
+    {
+      "name": "Austere",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/austere",
+      "officialVideo": "https://www.youtube.com/watch?v=NnIW-h65jeM",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Oathbreaker",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/oathbreaker",
+      "officialVideo": "https://www.youtube.com/watch?v=_aVQxAej-Us",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/75042f03-597a-4e1c-bc5d-4a62f4df05b6"
+    },
+    {
+      "name": "Finsterforst",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/finsterforst",
+      "officialVideo": "https://www.youtube.com/watch?v=ZY9Cij60l2Q",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/45c6b878-48c5-48cf-ad48-4a7cf5a10787"
+    },
+    {
+      "name": "dArtagnan",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/dartagnan",
+      "officialVideo": "https://www.youtube.com/watch?v=egLoz_DPQ8E",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/4266e965-7a2f-4556-acf6-2fb3257023aa"
+    },
+    {
+      "name": "Miracle of Sound",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/miracle-of-sound",
+      "officialVideo": "https://www.youtube.com/watch?v=y2q5R9HU7C0",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/d2b7fc8c-033c-462e-aef2-7e116571d67c"
+    },
+    {
+      "name": "Nemuer",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/nemuer",
+      "officialVideo": "https://www.youtube.com/watch?v=RDRjn-0RDFg",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/b2f437a8-a3a1-4578-8389-55d435d480e8"
+    },
+    {
+      "name": "Ravn",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/ravn",
+      "officialVideo": "https://www.youtube.com/watch?v=fALJTV-sUVg",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Pig Destroyer",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/pig-destroyer",
+      "officialVideo": "https://www.youtube.com/watch?v=I1NBcNaQpyA",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/5c0d3974-33d5-4f7a-bebc-8f50c057927e"
+    },
+    {
+      "name": "Brujeria",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/brujeria",
+      "officialVideo": "https://www.youtube.com/watch?v=97Osm1PgsRs",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/53f5c37f-8516-46d4-b66e-bf008cea9433"
+    },
+    {
+      "name": "Exhumed",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/exhumed",
+      "officialVideo": "https://www.youtube.com/watch?v=SLrh2Pefdao",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Excrementory Grindfuckers",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/excrementory-grindfuckers",
+      "officialVideo": "https://www.youtube.com/watch?v=i0W5FI8-yKA",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/0151f780-d500-44df-8e38-475b0e3f27a4"
+    },
+    {
+      "name": "Brutal Sphincter",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/brutal-sphincter",
+      "officialVideo": "https://www.youtube.com/watch?v=ts_5UcQ4BE0",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/0891013c-21af-412a-961f-bf445ebe690d"
+    },
+    {
+      "name": "Plini",
+      "missing": [
+        "formationYear"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/plini",
+      "officialVideo": "https://www.youtube.com/watch?v=1qs7bLgWz1U",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/3f6c0aa1-a7a9-4ff2-9c50-e84d4b0de178"
+    },
+    {
+      "name": "Insidias",
+      "missing": [
+        "country"
+      ],
+      "officialUrl": null,
+      "officialVideo": null,
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "John Garcia",
+      "missing": [
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/john-garcia",
+      "officialVideo": "https://www.youtube.com/watch?v=rO8f0_Svvx0",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Graveyard",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/graveyard",
+      "officialVideo": "https://www.youtube.com/watch?v=JQ3FnW1CO2I",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Slomosa",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/slomosa",
+      "officialVideo": "https://www.youtube.com/watch?v=Y9v6PAJCiLI",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/262c9855-aa44-40f4-a275-cb425c074513"
+    },
+    {
+      "name": "Hippie Death Cult",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/hippie-death-cult",
+      "officialVideo": "https://www.youtube.com/watch?v=0MLo_RevONg",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/3a020ae9-62e2-4d4f-bc28-fc0965a02f7f"
+    },
+    {
+      "name": "7 Weeks",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/7-weeks",
+      "officialVideo": "https://www.youtube.com/watch?v=f4QQ1QLaFa0",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/c50d7e41-405a-432e-8e6d-451b9fd579d4"
+    },
+    {
+      "name": "Monkeys on Mars",
+      "missing": [
+        "tracks",
+        "albums",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/monkeys-on-mars",
+      "officialVideo": "https://www.youtube.com/watch?v=nTywDH6lI2Q",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/1a41aa76-2f34-45ca-8e96-dcee162f742d"
+    },
+    {
+      "name": "King Buffalo",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/king-buffalo",
+      "officialVideo": "https://www.youtube.com/watch?v=ORTIgdqJthc",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/17216b16-e706-4082-b0ba-e409a3097844"
+    },
+    {
+      "name": "Kylesa",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/kylesa",
+      "officialVideo": "https://www.youtube.com/watch?v=VlbC-hk25Aw",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/e6ed56ae-c477-48fa-a53b-63f6cbc4a3c3"
+    },
+    {
+      "name": "Bongzilla",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/bongzilla",
+      "officialVideo": null,
+      "musicbrainzUrl": "https://musicbrainz.org/artist/fb7659b2-5ceb-45ac-be95-b0c1f832caec"
+    },
+    {
+      "name": "Verdun",
+      "missing": [
+        "tracks",
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/verdun",
+      "officialVideo": "https://www.youtube.com/watch?v=gFCcZVfhQpc",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Clegane",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/clegane",
+      "officialVideo": "https://www.youtube.com/watch?v=AxpFGLjzaCU",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Monolord",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/monolord",
+      "officialVideo": "https://www.youtube.com/watch?v=N-dfIpmX-xo",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/043225b4-3c61-4aea-8644-9065306d3499"
+    },
+    {
+      "name": "Messa",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/messa",
+      "officialVideo": "https://www.youtube.com/watch?v=VgJk2-ddU6M",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Blackwater Holylight",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/blackwater-holylight",
+      "officialVideo": "https://www.youtube.com/watch?v=uzCDNWL5Ung",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Witchthroat Serpent",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/witchthroat-serpent",
+      "officialVideo": "https://www.youtube.com/watch?v=jtfO1aorSug",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Witchorious",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/witchorious",
+      "officialVideo": null,
+      "musicbrainzUrl": "https://musicbrainz.org/artist/0033cfa2-e385-4521-b93e-c09508b2bb34"
+    },
+    {
+      "name": "Swallow the Sun",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/swallow-the-sun",
+      "officialVideo": "https://www.youtube.com/watch?v=yq5Ho6NkqH8",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/0f6df3f2-01f5-4d9a-a047-a76c907d7b66"
+    },
+    {
+      "name": "Novembers Doom",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/novembers-doom",
+      "officialVideo": "https://www.youtube.com/watch?v=2Vttl5iyfMI",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/d2c2707a-e9d5-443f-9112-23cb2f42d553"
+    },
+    {
+      "name": "Abyssic",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/abyssic",
+      "officialVideo": "https://www.youtube.com/watch?v=1ZPWn9UoZCc",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/1174419f-7eb7-4fe3-8489-3309eb767029"
+    },
+    {
+      "name": "Brutus",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/brutus",
+      "officialVideo": "https://www.youtube.com/watch?v=ZwSXPfhzJbk",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Múr",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/mur",
+      "officialVideo": "https://www.youtube.com/watch?v=2gUiIp2S504",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Jack and the Bearded Fishermen",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/jack-and-the-bearded-fishermen",
+      "officialVideo": "https://www.youtube.com/watch?v=Pkob6V1y6S4",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Queen(Ares)",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/queen-ares",
+      "officialVideo": "https://www.youtube.com/watch?v=clCRHYO4-s0",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/6c44622d-9ff5-4b6f-b122-f013a51c5a1a"
+    },
+    {
+      "name": "Gatta Morta",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/gatta-morta",
+      "officialVideo": "https://www.youtube.com/watch?v=niYvFdQvGls",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/fcf44846-9a93-4021-8c56-73d93d081c64"
+    },
+    {
+      "name": "Mono",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/mono",
+      "officialVideo": "https://www.youtube.com/watch?v=k39o7_UaFpY",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "We Lost the Sea",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/we-lost-the-sea",
+      "officialVideo": "https://www.youtube.com/watch?v=SbFPwdcFHGQ",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/cdf2c4db-a712-4ea1-a214-ff87845b0d19"
+    },
+    {
+      "name": "Lost in Kyiv",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/lost-in-kyiv",
+      "officialVideo": "https://www.youtube.com/watch?v=fgN6jOg06_w",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/873e0aef-ac81-4e6f-bd33-3da5a67546da"
+    },
+    {
+      "name": "Doodseskader",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/doodseskader",
+      "officialVideo": "https://www.youtube.com/watch?v=6JQvvq0hGSg",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/cd99c9e2-e8bf-48ec-8c21-aaa2f81c5fcf"
+    },
+    {
+      "name": "Truck Violence",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/truck-violence",
+      "officialVideo": "https://www.youtube.com/watch?v=XkLG5OolBdk",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Nature Morte",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/nature-morte",
+      "officialVideo": "https://www.youtube.com/watch?v=i-YsEJnpHcE",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Midsummer Blaze",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/midsummer-blaze",
+      "officialVideo": "https://www.youtube.com/watch?v=onF8eksibbM",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/db7dc6e3-be22-4897-b239-65c8030f2637"
+    },
+    {
+      "name": "Anna von Hausswolff",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/anna-von-hausswolff",
+      "officialVideo": "https://www.youtube.com/watch?v=Nre0hcDz5TI",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/6bd920ac-3b7c-47e0-8f0f-c390f63f5112"
+    },
+    {
+      "name": "Emma Ruth Rundle",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/emma-ruth-rundle",
+      "officialVideo": "https://www.youtube.com/watch?v=jTfCvMEG8e4",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/7ba593b9-79d4-4860-92c8-ade2a1ef4551"
+    },
+    {
+      "name": "A.A. Williams",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/a-a-williams",
+      "officialVideo": "https://www.youtube.com/watch?v=nqD7OauxaTo",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/26f28e9b-c0db-44d1-84ca-817f8cf5d249"
+    },
+    {
+      "name": "Lord of the Lost",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/lord-of-the-lost",
+      "officialVideo": "https://www.youtube.com/watch?v=QNRTEJYCXGM",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/8cf95123-5023-4257-933e-4d7ebbc5d8a2"
+    },
+    {
+      "name": "Silver Dust",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/silver-dust",
+      "officialVideo": "https://www.youtube.com/watch?v=UfGz9903VLc",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "The Virgos",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/the-virgos",
+      "officialVideo": "https://www.youtube.com/watch?v=nLPvBv9HoUY",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Lebanon Hanover",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/lebanon-hanover",
+      "officialVideo": "https://www.youtube.com/watch?v=mkR4wjPC_0c",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/7de3b7b4-8288-4baf-929b-98af9224c0cb"
+    },
+    {
+      "name": "Corpus Delicti",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/corpus-delicti",
+      "officialVideo": "https://www.youtube.com/watch?v=RguU-if7_Pk",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Zetra",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/zetra",
+      "officialVideo": "https://www.youtube.com/watch?v=ugdf9xMH3FU",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Dayseeker",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/dayseeker",
+      "officialVideo": "https://www.youtube.com/watch?v=k95oDnsCu_8",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/d9a9b6aa-c5c5-40dc-95ec-0bff029245c0"
+    },
+    {
+      "name": "Landmvrks",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/landmvrks",
+      "officialVideo": "https://www.youtube.com/watch?v=Y6MdUdLNfaM",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/8e9ed070-ed81-4c04-9d47-68cf571507cb"
+    },
+    {
+      "name": "Novelists",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/novelists",
+      "officialVideo": "https://www.youtube.com/watch?v=Hgr5B2PxELM",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Rise of the Northstar",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/rise-of-the-northstar",
+      "officialVideo": "https://www.youtube.com/watch?v=O1Zbm0QcDJU",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/13fc6434-1d2b-49f5-a1cb-b38358b5a15f"
+    },
+    {
+      "name": "Blue Medusa",
+      "missing": [
+        "albums",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/blue-medusa",
+      "officialVideo": "https://www.youtube.com/watch?v=8DVwEt00MEY",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/66a0df65-4dc6-45d5-bbd5-27b39e9dbc76"
+    },
+    {
+      "name": "The Dark.FM",
+      "missing": [
+        "albums",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/the-dark-fm",
+      "officialVideo": "https://www.youtube.com/watch?v=jwhSvg2TVPc",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/1dddf6a2-2f46-4fce-8894-0462f6a08dad"
+    },
+    {
+      "name": "Spleen",
+      "missing": [
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/spleen",
+      "officialVideo": "https://www.youtube.com/watch?v=ATTSLm9IjbQ",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Poison the Well",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/poison-the-well",
+      "officialVideo": "https://www.youtube.com/watch?v=Ny3IPTU4xa0",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/5275425d-3cdb-4a9a-b9eb-3e246ec69881"
+    },
+    {
+      "name": "Walls of Jericho",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/walls-of-jericho",
+      "officialVideo": "https://www.youtube.com/watch?v=Fo79kDjDQzk",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/a342964d-ca53-4e54-96dc-e8501851e77f"
+    },
+    {
+      "name": "Showing Teeth",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/showing-teeth",
+      "officialVideo": "https://www.youtube.com/watch?v=vI7Odq9grfk",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/4af64db6-0182-4538-800c-bece70ae3a2a"
+    },
+    {
+      "name": "Crowquill",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/crowquill",
+      "officialVideo": "https://www.youtube.com/watch?v=8g4JhNsNo80",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/1eff8919-37db-49fd-9c50-da3df9d6aef4"
+    },
+    {
+      "name": "From Ashes to New",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/from-ashes-to-new",
+      "officialVideo": "https://www.youtube.com/watch?v=0xMBbvvO5Uk",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/66baa549-ec7d-410f-88bf-d4f9bbb21890"
+    },
+    {
+      "name": "Gideon",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/gideon",
+      "officialVideo": "https://www.youtube.com/watch?v=tkWdpXy91gc",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Cage Fight",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/cage-fight",
+      "officialVideo": "https://www.youtube.com/watch?v=Mn3dHZ74rlw",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/3d9f09c4-2826-48eb-9fea-ca4d543d28ae"
+    },
+    {
+      "name": "The Barbarians of California",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/the-barbarians-of-california",
+      "officialVideo": "https://www.youtube.com/watch?v=4cELJ30pzjs",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/2f6cf231-c233-406a-bf30-76d0fc4cfe66"
+    },
+    {
+      "name": "Kanine",
+      "missing": [
+        "tracks",
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": null,
+      "officialVideo": null,
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Static Dress",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/static-dress",
+      "officialVideo": "https://www.youtube.com/watch?v=t7AIL1PGB4Y",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/9f61afe8-7142-44ee-b518-4dbb1caefb82"
+    },
+    {
+      "name": "Violent Vira",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/violent-vira",
+      "officialVideo": "https://www.youtube.com/watch?v=Rp-iKUrFDos",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/b90bf88d-53bf-4257-a151-95d9848fd90c"
+    },
+    {
+      "name": "Cenobia",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/cenobia",
+      "officialVideo": "https://www.youtube.com/watch?v=XAOzOUoYNOM",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Asava",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/asava",
+      "officialVideo": "https://www.youtube.com/watch?v=-6zBnRFGPc4",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/aadf52dc-ead0-4b8c-bc0f-6168dfece1f1"
+    },
+    {
+      "name": "Tom Morello",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/tom-morello",
+      "officialVideo": "https://www.youtube.com/watch?v=F-xJV9aHzIw",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/42a636a0-dbe4-4d0c-abe2-1590fad9531b"
+    },
+    {
+      "name": "Grandson",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/grandson",
+      "officialVideo": "https://www.youtube.com/watch?v=xKH3Hj4lqLs",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/cc699fe3-db51-4837-928f-8f712c61a01a"
+    },
+    {
+      "name": "Daughtry",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/daughtry",
+      "officialVideo": "https://www.youtube.com/watch?v=UztaVpR9UI0",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/21e3292e-dac8-4609-b57d-402f926aa41f"
+    },
+    {
+      "name": "Highly Suspect",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/highly-suspect",
+      "officialVideo": "https://www.youtube.com/watch?v=YoAcSihaRIc",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/afd55c72-d123-4237-9818-fa3ce634b3dd"
+    },
+    {
+      "name": "Failure",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/failure",
+      "officialVideo": "https://www.youtube.com/watch?v=c_Z5OXxLRRQ",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Basement",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/basement",
+      "officialVideo": "https://www.youtube.com/watch?v=VjBZRizlxhE",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Hot Milk",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/hot-milk",
+      "officialVideo": "https://www.youtube.com/watch?v=oE8eUXseXIQ",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "TSS",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/tss",
+      "officialVideo": "https://www.youtube.com/watch?v=EBAdqbbioZ8",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Angel Du$t",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/angel-du-t",
+      "officialVideo": "https://www.youtube.com/watch?v=iL3nalf4Du8",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/36c8b01c-cd8b-4ecd-b3fd-9f4f73371d2b"
+    },
+    {
+      "name": "Initiate",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/initiate",
+      "officialVideo": "https://www.youtube.com/watch?v=9qj7mUoLrMs",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Locked Shut",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/locked-shut",
+      "officialVideo": "https://www.youtube.com/watch?v=KYq_fL0lPQc",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/d5e5a50d-6229-4dee-84bc-a48320932311"
+    },
+    {
+      "name": "Warzone",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/warzone",
+      "officialVideo": "https://www.youtube.com/watch?v=3PPANEgny8A",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/496da466-68e9-4cbb-9e86-cbb57eda861a"
+    },
+    {
+      "name": "Shutdown",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/shutdown",
+      "officialVideo": "https://www.youtube.com/watch?v=5UtTHiTUbTk",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Youth of Today",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/youth-of-today",
+      "officialVideo": "https://www.youtube.com/watch?v=tvAMceG2ZxE",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/9ca27db4-f127-4aeb-ae87-29e21f558c13"
+    },
+    {
+      "name": "Comeback Kid",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/comeback-kid",
+      "officialVideo": "https://www.youtube.com/watch?v=TXVVHEQqSsc",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/6d152109-c447-446d-9a06-3621c920bebd"
+    },
+    {
+      "name": "Sunami",
+      "missing": [
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/sunami",
+      "officialVideo": "https://www.youtube.com/watch?v=5dXP2XIPUEc",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Big Ass Truck I.E.",
+      "missing": [
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/big-ass-truck-i-e",
+      "officialVideo": "https://www.youtube.com/watch?v=DBI5koONTt0",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/b0caf649-6cbb-4279-a511-d5b5a0a31a93"
+    },
+    {
+      "name": "Headbussa",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/headbussa",
+      "officialVideo": "https://www.youtube.com/watch?v=Kye_4wcF-N0",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/80a7d7a8-02fb-42eb-b43a-96db888fe54e"
+    },
+    {
+      "name": "Krimewatch",
+      "missing": [
+        "tracks",
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/krimewatch",
+      "officialVideo": "https://www.youtube.com/watch?v=Fr-zvexYPb4",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "XCOMM",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/xcomm",
+      "officialVideo": "https://www.youtube.com/watch?v=AcJbiofWvV0",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/b530627f-0b03-4fae-a972-435d26c90e7c"
+    },
+    {
+      "name": "Crovercops",
+      "missing": [
+        "tracks",
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/crovercops",
+      "officialVideo": null,
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Merville",
+      "missing": [
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/merville",
+      "officialVideo": "https://www.youtube.com/watch?v=-7h6-7DoaNc",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Cobra",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/cobra",
+      "officialVideo": "https://www.youtube.com/watch?v=gE37pREPe78",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "The Paradox",
+      "missing": [
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/the-paradox",
+      "officialVideo": "https://www.youtube.com/watch?v=p635dYh_hgE",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Burning Heads",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/burning-heads",
+      "officialVideo": "https://www.youtube.com/watch?v=47fffaLy9HY",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/ffbe6832-9ab2-465e-8154-050d3a85b61d"
+    },
+    {
+      "name": "Dirty Fonzy",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/dirty-fonzy",
+      "officialVideo": "https://www.youtube.com/watch?v=llqVefXBxaA",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/8bee2c11-8bfc-434c-aaaf-23ecd45a30aa"
+    },
+    {
+      "name": "Skinhead",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/skinhead",
+      "officialVideo": "https://www.youtube.com/watch?v=JkU_2NhUPus",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/81042f2e-2f8f-49fd-9afc-d2b07da3f3af"
+    },
+    {
+      "name": "Discharge",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/discharge",
+      "officialVideo": "https://www.youtube.com/watch?v=BlGTzVUmEhE",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "The Interrupters",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/the-interrupters",
+      "officialVideo": "https://www.youtube.com/watch?v=dnF2O-4irMo",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/f8ed032c-0d34-4ae6-a069-91417097509e"
+    },
+    {
+      "name": "La Ruda",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/la-ruda",
+      "officialVideo": "https://www.youtube.com/watch?v=GQL9lTnyK7g",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/db6107e1-f692-453a-ab0e-4566faaba298"
+    },
+    {
+      "name": "Les Wampas",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/les-wampas",
+      "officialVideo": "https://www.youtube.com/watch?v=NegeiWzaegY",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/46c6a335-6064-4118-8021-83fb37b1bc6a"
+    },
+    {
+      "name": "Tagada Jones",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/tagada-jones",
+      "officialVideo": "https://www.youtube.com/watch?v=QaIHVw4Mrzw",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/0ae2530c-6794-4e23-b345-62b1e7b53571"
+    },
+    {
+      "name": "Les Sheriff",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/les-sheriff",
+      "officialVideo": "https://www.youtube.com/watch?v=e92dayYLj9k",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/8c3b6f61-aa42-47b8-98a5-b70165691caf"
+    },
+    {
+      "name": "Stinky Toys",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/stinky-toys",
+      "officialVideo": "https://www.youtube.com/watch?v=kcqT2Kicsbo",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/2dff4ae5-ffe4-4552-8da3-2b6e410c0ced"
+    },
+    {
+      "name": "Krav Boca",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/krav-boca",
+      "officialVideo": "https://www.youtube.com/watch?v=xjA_GmhofhM",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/6dc0071c-0186-4f27-a234-fa5858774400"
+    },
+    {
+      "name": "Condkoi",
+      "missing": [
+        "tracks",
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/condkoi",
+      "officialVideo": "https://www.youtube.com/watch?v=4rhhnMyRrjY",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Prisonnier du Temps",
+      "missing": [
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/prisonnier-du-temps",
+      "officialVideo": "https://www.youtube.com/watch?v=DRryITVCaN8",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Frenzee",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/frenzee",
+      "officialVideo": "https://www.youtube.com/watch?v=I-cKyb47YIo",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Cowboy Hunters",
+      "missing": [
+        "tracks",
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/cowboy-hunters",
+      "officialVideo": "https://www.youtube.com/watch?v=KhII7sk80UY",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Babe Haven",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/babe-haven",
+      "officialVideo": "https://www.youtube.com/watch?v=TE9esVuSvEs",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/526c63a9-842c-4d6c-9aad-e9830fe521e0"
+    },
+    {
+      "name": "Witch Fever",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/witch-fever",
+      "officialVideo": "https://www.youtube.com/watch?v=LIyl9Ka83sI",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/400b04e1-42d3-4e13-8e3b-efce1db9c508"
+    },
+    {
+      "name": "Knives",
+      "missing": [
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/knives",
+      "officialVideo": "https://www.youtube.com/watch?v=oN_adA8UD0I",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Mannequin Death Squad",
+      "missing": [
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/mannequin-death-squad",
+      "officialVideo": "https://www.youtube.com/watch?v=PhNBthQ1b6Y",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "High Vis",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/high-vis",
+      "officialVideo": "https://www.youtube.com/watch?v=147BrDp-XuA",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/29acd2bb-7e67-4722-97ed-472e365ae860"
+    },
+    {
+      "name": "Jehnny Beth",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/jehnny-beth",
+      "officialVideo": "https://www.youtube.com/watch?v=XnY25usjgZM",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/fdac609a-63d0-49b9-823a-daec52a0db97"
+    },
+    {
+      "name": "Gans",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/gans",
+      "officialVideo": "https://www.youtube.com/watch?v=5mpeQei4g00",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Imparfait",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/imparfait",
+      "officialVideo": "https://www.youtube.com/watch?v=qWn1PZF-6U0",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Supersobre",
+      "missing": [
+        "tracks",
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/supersobre",
+      "officialVideo": null,
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Marilyn Manson",
+      "missing": [
+        "formationYear"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/marilyn-manson",
+      "officialVideo": "https://www.youtube.com/watch?v=Sp7cdmzpjP0",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Horskh",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/horskh",
+      "officialVideo": "https://www.youtube.com/watch?v=JVcaYhv1G-Y",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/ed252228-fbcf-4b16-a38c-6964c5d841b9"
+    },
+    {
+      "name": "Your Inland Empire",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/your-inland-empire",
+      "officialVideo": "https://www.youtube.com/watch?v=MChWDd4j4BU",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Divine Shade",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/divine-shade",
+      "officialVideo": "https://www.youtube.com/watch?v=EYwBoejNbaU",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Carpenter Brut",
+      "missing": [
+        "formationYear"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/carpenter-brut",
+      "officialVideo": "https://www.youtube.com/watch?v=9Eqf973nbAQ",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/303abdee-ffca-4685-a582-6aaaefd81b01"
+    },
+    {
+      "name": "Perturbator",
+      "missing": [
+        "formationYear"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/perturbator",
+      "officialVideo": "https://www.youtube.com/watch?v=D_OSyB3vZ5g",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/45c25199-fa62-4d4c-b0a2-11eeed6923c3"
+    },
+    {
+      "name": "Combichrist",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/combichrist",
+      "officialVideo": "https://www.youtube.com/watch?v=CMX1PyMouUE",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd"
+    },
+    {
+      "name": "DeathbyRomy",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/deathbyromy",
+      "officialVideo": "https://www.youtube.com/watch?v=BXfTkmcW9fE",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/79afaf00-a4d9-4457-a4ff-a126bc31bdaf"
+    },
+    {
+      "name": "Ghostemane",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/ghostemane",
+      "officialVideo": "https://www.youtube.com/watch?v=Ybr-GMNcdr8",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/1989dd59-7f11-4c90-9450-4d728ed07fb0"
+    },
+    {
+      "name": "Ho99o9",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/ho99o9",
+      "officialVideo": "https://www.youtube.com/watch?v=-cfISSvhztc",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/e0458faa-82b2-4011-b851-6a0ed1f5a0e6"
+    },
+    {
+      "name": "Dälek",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/dalek",
+      "officialVideo": "https://www.youtube.com/watch?v=f3gYK2NBTFs",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Frankie and the Witch Fingers",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/frankie-and-the-witch-fingers",
+      "officialVideo": "https://www.youtube.com/watch?v=HhpjtgNyX0A",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/cc846715-ccc7-4391-868b-0876d135daa0"
+    },
+    {
+      "name": "Earth Tongue",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/earth-tongue",
+      "officialVideo": "https://www.youtube.com/watch?v=Q7qUjVRe8fs",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/e8953f62-0a60-4450-8d2a-482281ec966e"
+    },
+    {
+      "name": "Fomies",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/fomies",
+      "officialVideo": "https://www.youtube.com/watch?v=qGotROsm5cw",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/d065eef7-3541-4d76-b54b-6ba15cba1554"
+    },
+    {
+      "name": "Doom! Noo Yelbek",
+      "missing": [
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/doom-noo-yelbek",
+      "officialVideo": "https://www.youtube.com/watch?v=elUC2fiF8FM",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/3cc76ae5-4363-4028-9293-d9dee83bd3ab"
+    },
+    {
+      "name": "Moundrag",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/moundrag",
+      "officialVideo": "https://www.youtube.com/watch?v=l2DBBVey3pQ",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Damantra",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/damantra",
+      "officialVideo": "https://www.youtube.com/watch?v=Gf4rRtdkcns",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/54103480-3309-4845-9664-76cab99e7020"
+    },
+    {
+      "name": "16 Horsepower",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/16-horsepower",
+      "officialVideo": "https://www.youtube.com/watch?v=f-vpAn15-vE",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/9a22fc7b-ad7f-4c70-9e0f-4d40cd7562cd"
+    },
+    {
+      "name": "Me and That Man",
+      "missing": [
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/me-and-that-man",
+      "officialVideo": "https://www.youtube.com/watch?v=zyoR7QwMh0E",
+      "musicbrainzUrl": "https://musicbrainz.org/artist/d4b5bf22-a625-4a94-a55f-1a8c3d253365"
+    },
+    {
+      "name": "Sarāb",
+      "missing": [
+        "albums",
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/sarab",
+      "officialVideo": "https://www.youtube.com/watch?v=Ygq0p-X2FIA",
+      "musicbrainzUrl": null
+    },
+    {
+      "name": "Alias",
+      "missing": [
+        "formationYear",
+        "original Korean biography"
+      ],
+      "officialUrl": "https://hellfest.fr/artiste/alias",
+      "officialVideo": "https://www.youtube.com/watch?v=NVEeZ8W7kdA",
+      "musicbrainzUrl": null
+    }
+  ]
+}
