@@ -1,0 +1,29 @@
+name: V5.4 UX baseline audit
+on:
+  push:
+    branches: [ux-audit-v54]
+    paths: ['.github/workflows/ux-audit-v54.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: pip install playwright==1.51.0
+      - run: python -m playwright install --with-deps chromium webkit
+      - run: npm install --no-save --ignore-scripts axe-core@4.10.3
+      - run: python tools/audit_ux_v54.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: ux-baseline
+          path: ux-audit-output/
