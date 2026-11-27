@@ -1,0 +1,44 @@
+name: Collect discovery metadata
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/artist-discovery.yml']
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: artist-discovery-data
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/download-artifact@v4
+        with:
+          name: link-audit
+          run-id: 45925093142
+          github-token: ${{ github.token }}
+          path: audit-input
+      - run: python -m pip install beautifulsoup4==4.13.4 pycountry==24.6.1 ytmusicapi==1.12.4
+      - run: python -m py_compile tools/collect_artist_discovery.py && python tools/collect_artist_discovery.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: artist-discovery
+          path: data/artist-discovery.json
+          if-no-files-found: warn
+      - name: Publish public metadata only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/artist-discovery.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Publish source-checked artist discovery metadata'
+          git pull --rebase origin main
+          git push origin HEAD:main
