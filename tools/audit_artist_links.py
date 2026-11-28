@@ -59,7 +59,9 @@ def main():
     p.add_argument("--no-ytmusic",action="store_true")
     p.add_argument("--resume",action="store_true",help="reuse previously completed report rows")
     args=p.parse_args()
-    data=json.loads(re.search(r"const artists=(\[[\s\S]*?\]);\s*const cats=",HTML.read_text(encoding="utf-8")).group(1))
+    match=re.search(r"const DATA=(\[[\s\S]*?\]);",HTML.read_text(encoding="utf-8"))
+    if not match: raise ValueError("V5.4 DATA array not found")
+    data=json.loads(match.group(1))
     assert len(data)==306 and len({a["name"] for a in data})==306
     ytm=None
     if not args.no_ytmusic:
